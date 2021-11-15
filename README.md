@@ -6,6 +6,6 @@ In this project, I use a variety of analysis techniques to polish the data. You'
 1. A Jupyter notebook containing heavy-handed transforms.
 2. A T-SQL script for fine-tuning.
 3. Three .xlsx files.
--- 3.1 The raw data, as downloaded from the University of British Columbia.
--- 3.2 The data post-transform, which is then loaded into a database using SSMS.
--- 3.3 The final output.
+3.1 The raw data, as downloaded from the University of British Columbia.
+3.2 The data post-transform, which is then loaded into a database using SSMS.
+3.3 The final output.
