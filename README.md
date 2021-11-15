@@ -3,9 +3,8 @@ This is a 2017 data set from the University of British Columbia, Canada on lolly
 
 # The Process
 In this project, I use a variety of analysis techniques to polish the data. You'll find five main files in this repository. 
-1. A Jupyter notebook containing heavy-handed transforms.
-2. A T-SQL script for fine-tuning.
-3. Three .xlsx files.
-3.1 The raw data, as downloaded from the University of British Columbia.
-3.2 The data post-transform, which is then loaded into a database using SSMS.
-3.3 The final output.
+1. The raw data, as downloaded from the University of British Columbia.
+2. A Jupyter notebook containing heavy-handed transforms.
+3. The data post-transform, which is then loaded into a database using SSMS.
+4. A T-SQL script for fine-tuning.
+5. The final output.
