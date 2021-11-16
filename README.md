@@ -1,5 +1,5 @@
 # Context
-This is a 2017 data set from the University of British Columbia, Canada on lolly preferences during Halloween. The data contains all kinds of horrid inconsistencies that make it hard to analyse. For additional context, the survey originally presented to respondents can be found here: https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchysurvey2017.pdf 
+This is a novelty 2017 data set from the University of British Columbia, Canada on lolly preferences during Halloween. The data contains all kinds of horrid inconsistencies and truly anarchic questions that make it hard to analyse. Cleaning this is the equivalent of competitive runners training in high-altitude conditions. For additional context, the survey originally presented to respondents can be found here: https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchysurvey2017.pdf 
 
 # The Process
 In this project, I use a variety of analysis techniques to polish the data. You'll find five main files in this repository. 
