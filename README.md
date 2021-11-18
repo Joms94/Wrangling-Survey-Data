@@ -8,3 +8,6 @@ In this project, I use a variety of analysis techniques to polish the data. You'
 3. The data post-transform, which is then loaded into a database using SSMS.
 4. A T-SQL script for fine-tuning.
 5. The final output.
+
+# Please Note:
+This is currently unfinished. This message will be deleted when I've finished with this repo for now.
