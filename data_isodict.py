@@ -1,3 +1,5 @@
+'''All credit for this dictionary from https://gist.github.com/carlopires/1261951/d13ca7320a6abcd4b0aa800d351a31b54cefdff4'''
+
 ISO3166 = {
 	'AD': 'Andorra',
 	'AE': 'United Arab Emirates',
