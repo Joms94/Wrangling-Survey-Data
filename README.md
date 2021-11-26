@@ -9,5 +9,5 @@ In this project, I use a variety of analysis techniques to polish the data. You'
 4. A T-SQL script for exploration.
 5. The final output.
 
-# Please Note:
-This is currently unfinished. This message will be deleted when I've finished with this repo for now.
+# Still to Do:
+T-SQL exploration script.
